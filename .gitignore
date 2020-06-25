@@ -6,3 +6,6 @@ obj/Debug/netcoreapp3.1/TodoApi.csprojAssemblyReference.cache
 *.cache
 .vs/TodoApi/v16/.suo
 *.cache
+*.dll
+*.cache
+*.pdb
