@@ -9,3 +9,4 @@ obj/Debug/netcoreapp3.1/TodoApi.csprojAssemblyReference.cache
 *.dll
 *.cache
 *.pdb
+*.dll
