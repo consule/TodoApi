@@ -1,4 +1,4 @@
-# TodoApi - CRUD completo `APIs RESTFul`
+# API Web com ASP.NET Core - CRUD completo `APIs RESTFul`
 
 Projeto desenvolvido utilizando `ASP.NET Web API`, `Entity Framework Core` e banco de dados `SQLServer` em tempo de execução para criar `APIs RESTFul`. 
 
